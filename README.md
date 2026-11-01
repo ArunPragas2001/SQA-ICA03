@@ -9,6 +9,10 @@ Group assignment for Software Quality Assurance at the **University of Vavuniya*
 
 > This repository serves as the shared workspace for test scripts, evidence, reports, and assignment documentation. Test-case status and evidence should be verified against the tracker; a recorded “Pass” does not necessarily mean a defect-free application.
 
+## Course lecturer
+
+This group assignment was assigned by **Ms. Sivasoruby Kanapathipillai**, Faculty of Applied Science, University of Vavuniya. [Lecturer profile](https://fas.vau.ac.lk/dps/staff/ms-sivasoruby-kanapathipillai/).
+
 ## Team and responsibilities
 
 | Student ID | Team member | Assigned area | Tool |
