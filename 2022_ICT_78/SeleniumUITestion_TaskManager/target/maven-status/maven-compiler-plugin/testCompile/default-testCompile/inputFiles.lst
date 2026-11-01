@@ -1,0 +1,11 @@
+C:\Users\harsh\Desktop\2022_ICT_78\SeleniumUITestion_TaskManager\src\test\java\base\BaseTest.java
+C:\Users\harsh\Desktop\2022_ICT_78\SeleniumUITestion_TaskManager\src\test\java\tests\BrowserTest.java
+C:\Users\harsh\Desktop\2022_ICT_78\SeleniumUITestion_TaskManager\src\test\java\tests\TC001_EmailValidationWithoutAtSign.java
+C:\Users\harsh\Desktop\2022_ICT_78\SeleniumUITestion_TaskManager\src\test\java\tests\TC002_EmailValidationTestWithout_com.java
+C:\Users\harsh\Desktop\2022_ICT_78\SeleniumUITestion_TaskManager\src\test\java\tests\TC003_PasswordLengthBoundaryTest.java
+C:\Users\harsh\Desktop\2022_ICT_78\SeleniumUITestion_TaskManager\src\test\java\tests\TC004_TaskNameLengthBoundaryTest.java
+C:\Users\harsh\Desktop\2022_ICT_78\SeleniumUITestion_TaskManager\src\test\java\tests\TC005_MoveTaskButtonTest.java
+C:\Users\harsh\Desktop\2022_ICT_78\SeleniumUITestion_TaskManager\src\test\java\tests\TC006_EditTaskTest.java
+C:\Users\harsh\Desktop\2022_ICT_78\SeleniumUITestion_TaskManager\src\test\java\tests\TC007_DeleteTaskTest.java
+C:\Users\harsh\Desktop\2022_ICT_78\SeleniumUITestion_TaskManager\src\test\java\tests\TC008_TaskStatusDisplayTest.java
+C:\Users\harsh\Desktop\2022_ICT_78\SeleniumUITestion_TaskManager\src\test\java\tests\TC009_TaskCreationCancelTest.java
