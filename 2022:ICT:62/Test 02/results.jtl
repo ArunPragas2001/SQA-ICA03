@@ -1,0 +1,26 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1793540285244,1602,HTTP Request,200,OK,Thread Group 2 ( 25 Users ) 1-24,text,true,,559,272,25,25,http://localhost:8000/api/auth/login,1584,0,75
+1793540285238,1607,HTTP Request,200,OK,Thread Group 2 ( 25 Users ) 1-7,text,true,,559,272,25,25,http://localhost:8000/api/auth/login,1590,0,85
+1793540285239,1606,HTTP Request,200,OK,Thread Group 2 ( 25 Users ) 1-12,text,true,,559,272,25,25,http://localhost:8000/api/auth/login,1577,0,82
+1793540285228,1618,HTTP Request,200,OK,Thread Group 2 ( 25 Users ) 1-17,text,true,,559,272,25,25,http://localhost:8000/api/auth/login,1596,0,97
+1793540285234,2156,HTTP Request,200,OK,Thread Group 2 ( 25 Users ) 1-13,text,true,,559,272,21,21,http://localhost:8000/api/auth/login,2156,0,90
+1793540285237,2221,HTTP Request,200,OK,Thread Group 2 ( 25 Users ) 1-5,text,true,,559,272,20,20,http://localhost:8000/api/auth/login,2221,0,86
+1793540285235,2228,HTTP Request,200,OK,Thread Group 2 ( 25 Users ) 1-9,text,true,,559,272,19,19,http://localhost:8000/api/auth/login,2228,0,91
+1793540285226,2239,HTTP Request,200,OK,Thread Group 2 ( 25 Users ) 1-15,text,true,,559,272,19,19,http://localhost:8000/api/auth/login,2239,0,94
+1793540285237,2235,HTTP Request,200,OK,Thread Group 2 ( 25 Users ) 1-10,text,true,,559,272,17,17,http://localhost:8000/api/auth/login,2235,0,83
+1793540285237,2797,HTTP Request,200,OK,Thread Group 2 ( 25 Users ) 1-6,text,true,,559,272,16,16,http://localhost:8000/api/auth/login,2797,0,83
+1793540285227,2809,HTTP Request,200,OK,Thread Group 2 ( 25 Users ) 1-18,text,true,,559,272,15,15,http://localhost:8000/api/auth/login,2809,0,113
+1793540285226,2816,HTTP Request,200,OK,Thread Group 2 ( 25 Users ) 1-19,text,true,,559,272,14,14,http://localhost:8000/api/auth/login,2816,0,101
+1793540285243,2801,HTTP Request,200,OK,Thread Group 2 ( 25 Users ) 1-21,text,true,,559,272,13,13,http://localhost:8000/api/auth/login,2801,0,85
+1793540285238,2993,HTTP Request,200,OK,Thread Group 2 ( 25 Users ) 1-14,text,true,,559,272,12,12,http://localhost:8000/api/auth/login,2993,0,91
+1793540285243,2992,HTTP Request,200,OK,Thread Group 2 ( 25 Users ) 1-20,text,true,,559,272,11,11,http://localhost:8000/api/auth/login,2992,0,79
+1793540285226,3012,HTTP Request,200,OK,Thread Group 2 ( 25 Users ) 1-25,text,true,,559,272,11,11,http://localhost:8000/api/auth/login,3012,0,97
+1793540285239,3181,HTTP Request,200,OK,Thread Group 2 ( 25 Users ) 1-4,text,true,,559,272,9,9,http://localhost:8000/api/auth/login,3181,0,105
+1793540285244,3296,HTTP Request,200,OK,Thread Group 2 ( 25 Users ) 1-2,text,true,,559,272,8,8,http://localhost:8000/api/auth/login,3296,0,100
+1793540285226,3434,HTTP Request,200,OK,Thread Group 2 ( 25 Users ) 1-11,text,true,,559,272,7,7,http://localhost:8000/api/auth/login,3434,0,116
+1793540285235,3551,HTTP Request,200,OK,Thread Group 2 ( 25 Users ) 1-8,text,true,,559,272,6,6,http://localhost:8000/api/auth/login,3551,0,107
+1793540285235,3669,HTTP Request,200,OK,Thread Group 2 ( 25 Users ) 1-1,text,true,,559,272,5,5,http://localhost:8000/api/auth/login,3669,0,107
+1793540285228,3795,HTTP Request,200,OK,Thread Group 2 ( 25 Users ) 1-23,text,true,,559,272,4,4,http://localhost:8000/api/auth/login,3795,0,117
+1793540285235,3906,HTTP Request,200,OK,Thread Group 2 ( 25 Users ) 1-22,text,true,,559,272,3,3,http://localhost:8000/api/auth/login,3906,0,112
+1793540285228,4039,HTTP Request,200,OK,Thread Group 2 ( 25 Users ) 1-3,text,true,,559,272,2,2,http://localhost:8000/api/auth/login,4039,0,125
+1793540285226,4060,HTTP Request,200,OK,Thread Group 2 ( 25 Users ) 1-16,text,true,,559,272,1,1,http://localhost:8000/api/auth/login,4060,0,125
