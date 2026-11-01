@@ -3,7 +3,7 @@
 **Tester:** B.A.N.R. Bulathsinhala  
 **Registration number:** 2022/ICT/62  
 **Testing tool:** Apache JMeter  
-GitHub profile: **to be confirmed by the tester**.
+**GitHub:** [nethsara-rahiru](https://github.com/nethsara-rahiru)
 
 ## Scope
 
