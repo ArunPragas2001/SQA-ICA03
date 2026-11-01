@@ -3,7 +3,7 @@
 **Tester:** U.G.H.S. Ranasingha  
 **Registration number:** 2022/ICT/78  
 **Testing tool:** Selenium with Java  
-**GitHub:** [HarshiSRanasingha](https://github.com/HarshiSRanasingha) (linked from the tester's project materials).
+**GitHub:** [HarshiSRanasingha](https://github.com/HarshiSRanasingha)
 
 ## Scope
 
