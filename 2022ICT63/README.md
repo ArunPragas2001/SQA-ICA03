@@ -3,7 +3,7 @@
 **Tester:** G.M.S.A. Gunarathna  
 **Registration number:** 2022/ICT/63  
 **Testing tool:** Postman  
-GitHub profile: **to be confirmed by the tester**.
+**GitHub:** [samudinigunarathna](https://github.com/samudinigunarathna)
 
 ## Scope
 
